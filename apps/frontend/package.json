@@ -33,7 +33,7 @@
     "@babel/core": "7.24.9",
     "@graphql-codegen/cli": "5.0.2",
     "@graphql-codegen/client-preset": "4.3.2",
-    "@types/node": "20.14.11",
+    "@types/node": "20.17.19",
     "@types/react": "18.3.3",
     "@types/react-dom": "18.3.0",
     "autoprefixer": "10.4.19",
