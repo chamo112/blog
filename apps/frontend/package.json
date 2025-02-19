@@ -31,8 +31,8 @@
   },
   "devDependencies": {
     "@babel/core": "7.24.9",
-    "@graphql-codegen/cli": "5.0.2",
-    "@graphql-codegen/client-preset": "4.3.2",
+    "@graphql-codegen/cli": "5.0.5",
+    "@graphql-codegen/client-preset": "4.6.3",
     "@types/node": "20.14.11",
     "@types/react": "18.3.3",
     "@types/react-dom": "18.3.0",
